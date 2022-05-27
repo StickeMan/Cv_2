@@ -7,7 +7,6 @@ const resources = [
     './css/style.css'
 ]
 
-
 self.addEventListener('install', event => {
     event.waitUntil(
         caches.open(PRECACHE)
