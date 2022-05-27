@@ -2,7 +2,7 @@ const PRECACHE = 'precache-v2';
 const RUNTIME = 'runtime';
 const resources = [
     './index.html',
-    './js/conexionFetch.js',
+    './js/fdFetch.js',
     './css/normalize.css',
     './css/style.css'
 ]
